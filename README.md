@@ -24,21 +24,21 @@ how to use source control and write tests...
 
 ### Easier
 
-- Create a new list, assert that it has size()==0
-- Insert a single value 33, assert that size()==1
-- Insert a single value 42, read the head value, should be head()==42
-- Insert values 42 then 43, should be head()==43
-- Insert values 42 then 43, should be size()==2
-- For an empty list, for any value n, should be countOf(n)==0
+- Create a new list, assert that it has ```size()==0```
+- Insert a single value 33, assert that ```size()==1```
+- Insert a single value 42, read the head value, should be ```head()==42```
+- Insert values 42 then 43, should be ```head()==43```
+- Insert values 42 then 43, should be ```size()==2```
+- For an empty list, for any value n, should be ```countOf(n)==0```
 
 ### Medium...er
 
-- Insert value 42, should be that countOf(42)==1
-- Reading head() for an empty list should throw an exception
-- Add two identical values 99, should be that countOf(99)==2
-- Insert 41 then 42, remove at position zero, should be head()==41
+- Insert value 42, should be that ```countOf(42)==1```
+- Reading ```head()``` for an empty list should throw an exception
+- Add two identical values 99, should be that ```countOf(99)==2```
+- Insert 41 then 42, remove at position zero, should be ```head()==41```
 
 ### Harder
 
-- All the insertAfter() logic
-- All the removeAt() logic where the index > 0
+- All the ```insertAfter()``` logic
+- All the ```removeAt()``` logic where the index > 0
