@@ -2,25 +2,32 @@
 
 ## Getting started
 
-Hello, CodeClan people. This is a simple IntelliJ IDEA project to help you get started quickly with the
-hands-on technical interview practice session. This asssumes that you're using IntelliJ IDEA Community edition. You can
-[download this free for your platform](https://www.jetbrains.com/idea/download/)
-(MacBook/OSX for most of you, I guess).
+Hello, CodeClan people. This is a simple IntelliJ IDEA project to help
+you get started quickly with the hands-on technical interview practice
+session. This asssumes that you're using IntelliJ IDEA Community
+edition. You can [download this free for your
+platform](https://www.jetbrains.com/idea/download/) (MacBook/OSX for
+most of you, I guess).
 
 Simply git clone this repository to get started:
 
 ```$ git clone git@github.com:13coders/codeclan-techtest.git```
 
-You'll be able to commit as you go along, but not push to this repository - you can switch to a different
-upstream repository if you want to keep it somewhere -
-[read the GitHub docs for this](https://help.github.com/articles/changing-a-remote-s-url/)
+You'll be able to commit as you go along, but not push to this
+repository. If you want to push, the best approach is to fork this
+first to your own repository. If you clone this one and then change
+yout mind later on, you can switch to a different upstream repository
+if you want to keep it somewhere - [read the GitHub docs for
+this](https://help.github.com/articles/changing-a-remote-s-url/)
 
 ## Suggested list of tests
 
-Writing a test list is a practice that Kent Beck suggests in "Test Driven Development By Example". I think it
-works well to have a mini-roadmap, and for technical interviews it means you can make progress and lock it in
-by having a working test, and the safety of a commit. As a plus, it also shows an interviewer that you know
-how to use source control and write tests...
+Writing a test list is a practice that Kent Beck suggests in "Test
+Driven Development By Example". I think it works well to have a
+mini-roadmap, and for technical interviews it means you can make
+progress and lock it in by having a working test, and the safety of a
+commit. As a plus, it also shows an interviewer that you know how to
+use source control and write tests...
 
 ### Easier
 
